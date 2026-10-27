@@ -1,2 +1,17 @@
-# datadriven-practice
-Scored data engineering practice from datadriven.io
+# rugged_wasp_7968's data engineering practice
+
+Scored work from [DataDriven](https://datadriven.io/u/rugged_wasp_7968), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+
+<!-- datadriven:index:start -->
+
+## Practice
+
+| Problem | Domain | Difficulty | Solved |
+|---|---|---|---|
+| [The Opening Run](./practice/sql/the-opening-run) | SQL | Easy | 2026-09-20 |
+
+<!-- datadriven:index:end -->
+
+---
+
+Synced by [DataDriven](https://datadriven.io). Solve a problem there and it lands here.
