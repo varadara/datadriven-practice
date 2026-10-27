@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/rugged_wasp_7968), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Most Recent Token Usage](./practice/sql/most-recent-token-usage) | SQL | Easy | 2026-09-20 |
 | [The Opening Run](./practice/sql/the-opening-run) | SQL | Easy | 2026-09-20 |
 
 <!-- datadriven:index:end -->
